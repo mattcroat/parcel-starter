@@ -1,6 +1,6 @@
 # Parcel.js React, TypeScript and Tailwind Starter
 
-![Parcel starter](parcel.png)
+![Parcel starter](starter.png)
 
 📜 Install  
 `npm i`
