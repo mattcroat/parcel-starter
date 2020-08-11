@@ -8,7 +8,8 @@
 🔧 Development  
 `npm run dev`
 
-🌍 Visit http://localhost:3000/
+🌍 Open  
+http://localhost:3000/
 
 🏭 Production (set purge `enabled: true` in tailwind.config.js for lowest bundle size)  
 `npm run build`
