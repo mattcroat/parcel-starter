@@ -1,0 +1,17 @@
+.neon-dreams {
+  background: linear-gradient(260deg, hsl(255, 100%, 64%), hsl(228, 98%, 57%), hsl(284, 98%, 57%));
+  background-size: 400% 400%;
+  animation: scroll 4s ease infinite;
+}
+
+@keyframes scroll {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

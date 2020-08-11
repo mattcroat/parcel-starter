@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    // so we don't have to write "import * as React"
+    "allowSyntheticDefaultImports": true
+  }
+}
